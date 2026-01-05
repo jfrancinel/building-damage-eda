@@ -26,9 +26,5 @@ Link: [https://www.kaggle.com/](https://www.kaggle.com/code/ar89dsl/predicting-b
 ## Files
 - `eda.ipynb` – main analysis notebook
 
-## How to Run
-1. Open `eda.ipynb` in Jupyter Notebook
-2. Run cells from top to bottom
-
 ## Notes
-This project was created as part of a beginner data science learning journey.
+This project was created as part of a beginner data science learning journey, with the goal of practicing fundamental data analysis concepts such as data cleaning, exploration, and visualization using real-world data.

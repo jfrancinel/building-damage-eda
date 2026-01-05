@@ -22,6 +22,7 @@ Link: [https://www.kaggle.com/](https://www.kaggle.com/code/ar89dsl/predicting-b
 - Damage vs building material
 - Damage by district
 - Relationship between building age and damage
+- Relationship between floor count and damage 
 
 ## Files
 - `eda.ipynb` – main analysis notebook
